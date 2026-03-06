@@ -23,3 +23,6 @@ output/
 *.tmp
 *.swp
 *~
+
+# Ignore push script containing credentials
+push.bat
